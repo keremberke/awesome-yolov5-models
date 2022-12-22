@@ -15,4 +15,8 @@
 
 ### Model Zoo
 
-- Valorant object detection model | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [🤗 online demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s)
+| model type | model page | demo page | dataset page |
+|---         |---         |---        |---           |
+| yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
+| yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
+
