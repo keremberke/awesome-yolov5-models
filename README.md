@@ -19,14 +19,14 @@
 
 | mAP@0.5 score | model type | model page | demo page | dataset page |
 |---            |---         |---         |---        |---           |
-|   | yolov5n | [keremberke/yolov5n-valorant](https://huggingface.co/keremberke/yolov5n-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
-|   | yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
-|   | yolovm5m | [keremberke/yolov5m-valorant](https://huggingface.co/keremberke/yolov5m-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
+|   | yolov5n | [keremberke/yolov5n-valorant](https://huggingface.co/keremberke/yolov5n-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
+|   | yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
+|   | yolovm5m | [keremberke/yolov5m-valorant](https://huggingface.co/keremberke/yolov5m-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
 
 #### Football
 
 | mAP@0.5 score | model type | model page | demo page | dataset page | 
 |---            |---         |---         |---        |---           |
-|   | yolov5n | [keremberke/yolov5n-football](https://huggingface.co/keremberke/yolov5n-football) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
-|   | yolov5s | [keremberke/yolov5s-football](https://huggingface.co/keremberke/yolov5s-football) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
-|   | yolov5m | [keremberke/yolov5m-football](https://huggingface.co/keremberke/yolov5m-football) | [demo](https://huggingface.co/spaces/keremberke/valorant-yolov5s) | [dataset](...)
+|   | yolov5n | [keremberke/yolov5n-football](https://huggingface.co/keremberke/yolov5n-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
+|   | yolov5s | [keremberke/yolov5s-football](https://huggingface.co/keremberke/yolov5s-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
+|   | yolov5m | [keremberke/yolov5m-football](https://huggingface.co/keremberke/yolov5m-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
