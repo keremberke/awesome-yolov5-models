@@ -19,22 +19,22 @@
 
 | mAP@0.5 score | model type | model page | demo page | dataset page |
 |---            |---         |---         |---        |---           |
-|   | yolov5n | [keremberke/yolov5n-valorant](https://huggingface.co/keremberke/yolov5n-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
-|   | yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
-|   | yolovm5m | [keremberke/yolov5m-valorant](https://huggingface.co/keremberke/yolov5m-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
+| 0.959 | yolov5n | [keremberke/yolov5n-valorant](https://huggingface.co/keremberke/yolov5n-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
+| 0.982 | yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
+| 0.990 | yolovm5m | [keremberke/yolov5m-valorant](https://huggingface.co/keremberke/yolov5m-valorant) | [demo](https://huggingface.co/spaces/keremberke/valorant-object-detection) | [dataset](...)
 
 #### Football
 
 | mAP@0.5 score | model type | model page | demo page | dataset page | 
 |---            |---         |---         |---        |---           |
-|   | yolov5n | [keremberke/yolov5n-football](https://huggingface.co/keremberke/yolov5n-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
-|   | yolov5s | [keremberke/yolov5s-football](https://huggingface.co/keremberke/yolov5s-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
-|   | yolov5m | [keremberke/yolov5m-football](https://huggingface.co/keremberke/yolov5m-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
+| 0.627 | yolov5n | [keremberke/yolov5n-football](https://huggingface.co/keremberke/yolov5n-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
+| 0.700 | yolov5s | [keremberke/yolov5s-football](https://huggingface.co/keremberke/yolov5s-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
+| 0.741 | yolov5m | [keremberke/yolov5m-football](https://huggingface.co/keremberke/yolov5m-football) | [demo](https://huggingface.co/spaces/keremberke/football-object-detection) | [dataset](...)
 
 #### CSGO
 
 | mAP@0.5 score | model type | model page | demo page | dataset page |
 |---            |---         |---         |---        |---           |
-|   | yolov5n | [keremberke/yolov5n-csgo](https://huggingface.co/keremberke/yolov5n-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
-|   | yolov5s | [keremberke/yolov5s-csgo](https://huggingface.co/keremberke/yolov5s-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
-|   | yolov5m | [keremberke/yolov5m-csgo](https://huggingface.co/keremberke/yolov5m-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
+| 0.908 | yolov5n | [keremberke/yolov5n-csgo](https://huggingface.co/keremberke/yolov5n-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
+| 0.924 | yolov5s | [keremberke/yolov5s-csgo](https://huggingface.co/keremberke/yolov5s-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
+| 0.932 | yolov5m | [keremberke/yolov5m-csgo](https://huggingface.co/keremberke/yolov5m-csgo) | [demo](https://huggingface.co/spaces/keremberke/csgo-object-detection) | [dataset](...)
