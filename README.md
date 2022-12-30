@@ -46,3 +46,11 @@
 | 0.677 | yolov5n | [keremberke/yolov5n-clash-of-clans](https://huggingface.co/keremberke/yolov5n-clash-of-clans) | [demo](https://huggingface.co/spaces/keremberke/clash-of-clans-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/clash-of-clans-object-detection)
 | 0.828 | yolov5s | [keremberke/yolov5s-clash-of-clans](https://huggingface.co/keremberke/yolov5s-clash-of-clans) | [demo](https://huggingface.co/spaces/keremberke/clash-of-clans-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/clash-of-clans-object-detection)
 | 0.874 | yolov5m | [keremberke/yolov5m-clash-of-clans](https://huggingface.co/keremberke/yolov5m-clash-of-clans) | [demo](https://huggingface.co/spaces/keremberke/clash-of-clans-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/clash-of-clans-object-detection)
+
+#### Construction Safety
+
+| mAP@0.5 score | model type | model page | demo page | dataset page |
+|---            |---         |---         |---        |---           |
+| 0.677 | yolov5n | [keremberke/yolov5n-construction-safety](https://huggingface.co/keremberke/yolov5n-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
+| 0.677 | yolov5s | [keremberke/yolov5s-construction-safety](https://huggingface.co/keremberke/yolov5s-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
+| 0.677 | yolov5m | [keremberke/yolov5m-construction-safety](https://huggingface.co/keremberke/yolov5m-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
