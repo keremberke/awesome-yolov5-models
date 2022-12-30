@@ -54,3 +54,11 @@
 | 0.365 | yolov5n | [keremberke/yolov5n-construction-safety](https://huggingface.co/keremberke/yolov5n-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
 | 0.395 | yolov5s | [keremberke/yolov5s-construction-safety](https://huggingface.co/keremberke/yolov5s-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
 | 0.374 | yolov5m | [keremberke/yolov5m-construction-safety](https://huggingface.co/keremberke/yolov5m-construction-safety) | [demo](https://huggingface.co/spaces/keremberke/construction-safety-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/construction-safety-object-detection)
+
+#### NFL
+
+| mAP@0.5 score | model type | model page | demo page | dataset page |
+|---            |---         |---         |---        |---           |
+| 0.217 | yolov5n | [keremberke/yolov5n-nfl](https://huggingface.co/keremberke/yolov5n-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
+| 0.261 | yolov5s | [keremberke/yolov5s-nfl](https://huggingface.co/keremberke/yolov5s-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
+| 0.314 | yolov5m | [keremberke/yolov5m-nfl](https://huggingface.co/keremberke/yolov5m-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
