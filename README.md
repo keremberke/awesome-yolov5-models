@@ -70,3 +70,11 @@
 | 0.789 | yolov5n | [keremberke/yolov5n-forklift](https://huggingface.co/keremberke/yolov5n-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection)
 | 0.838 | yolov5s | [keremberke/yolov5s-forklift](https://huggingface.co/keremberke/yolov5s-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection)
 | 0.852 | yolov5m | [keremberke/yolov5m-forklift](https://huggingface.co/keremberke/yolov5m-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection)
+
+#### Blood Cell
+
+| mAP@0.5 score | model type | model page | demo page | dataset page |
+|---            |---         |---         |---        |---           |
+| 0.923 | yolov5n | [keremberke/yolov5n-blood-cell](https://huggingface.co/keremberke/yolov5n-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
+| 0.902 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
+| 0.905 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
