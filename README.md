@@ -78,3 +78,11 @@
 | 0.923 | yolov5n | [keremberke/yolov5n-blood-cell](https://huggingface.co/keremberke/yolov5n-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
 | 0.902 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
 | 0.905 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
+
+#### License Plate
+
+| mAP@0.5 score | model type | model page | demo page | dataset page |
+|---            |---         |---         |---        |---           |
+| 0.978 | yolov5n | [keremberke/yolov5n-license-plate](https://huggingface.co/keremberke/yolov5n-license-plate) | [demo](https://huggingface.co/spaces/keremberke/license-plate-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/license-plate-object-detection)
+| 0.985 | yolov5s | [keremberke/yolov5s-license-plate](https://huggingface.co/keremberke/yolov5s-license-plate) | [demo](https://huggingface.co/spaces/keremberke/license-plate-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/license-plate-object-detection)
+| 0.988 | yolov5m | [keremberke/yolov5m-license-plate](https://huggingface.co/keremberke/yolov5m-license-plate) | [demo](https://huggingface.co/spaces/keremberke/license-plate-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/license-plate-object-detection)
