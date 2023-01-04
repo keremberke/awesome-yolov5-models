@@ -62,3 +62,11 @@
 | 0.217 | yolov5n | [keremberke/yolov5n-nfl](https://huggingface.co/keremberke/yolov5n-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
 | 0.261 | yolov5s | [keremberke/yolov5s-nfl](https://huggingface.co/keremberke/yolov5s-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
 | 0.314 | yolov5m | [keremberke/yolov5m-nfl](https://huggingface.co/keremberke/yolov5m-nfl) | [demo](https://huggingface.co/spaces/keremberke/nfl-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection)
+
+#### Forklift
+
+| mAP@0.5 score | model type | model page | demo page | dataset page |
+|---            |---         |---         |---        |---           |
+| 0.789 | yolov5n | [keremberke/yolov5n-forklift](https://huggingface.co/keremberke/yolov5n-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset]([https://huggingface.co/datasets/keremberke/nfl-object-detection](https://huggingface.co/datasets/keremberke/forklift-object-detection))
+| 0.838 | yolov5s | [keremberke/yolov5s-forklift](https://huggingface.co/keremberke/yolov5s-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset]([https://huggingface.co/datasets/keremberke/nfl-object-detection](https://huggingface.co/datasets/keremberke/forklift-object-detection))
+| 0.852 | yolov5m | [keremberke/yolov5m-forklift](https://huggingface.co/keremberke/yolov5m-forklift) | [demo](https://huggingface.co/spaces/keremberke/forklift-object-detection) | [dataset]([https://huggingface.co/datasets/keremberke/nfl-object-detection](https://huggingface.co/datasets/keremberke/forklift-object-detection))
