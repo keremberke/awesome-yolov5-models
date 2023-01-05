@@ -77,7 +77,7 @@
 |---            |---         |---         |---        |---           |
 | 0.923 | yolov5n | [keremberke/yolov5n-blood-cell](https://huggingface.co/keremberke/yolov5n-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
 | 0.902 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
-| 0.905 | yolov5s | [keremberke/yolov5s-blood-cell](https://huggingface.co/keremberke/yolov5s-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
+| 0.905 | yolov5m | [keremberke/yolov5m-blood-cell](https://huggingface.co/keremberke/yolov5m-blood-cell) | [demo](https://huggingface.co/spaces/keremberke/blood-cell-object-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection)
 
 #### License Plate
 
